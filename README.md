@@ -99,9 +99,4 @@ Most Positive Department: Dresses
 Least Positive Department: Intimate
 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Special thanks to the contributors of the scikit-learn library for their extensive documentation and support.
-Inspiration from various sentiment analysis tutorials and blogs.
